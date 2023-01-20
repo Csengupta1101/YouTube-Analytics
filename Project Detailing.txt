@@ -1,2 +1,18 @@
 This Project is located in github1 environment
 The Goal of this project is to extract data from youtube and perform analysis on the same.
+
+Let's Generate API Key first -
+*   Login to google account and move to google developers console
+*   Create a new project
+*   In the top enable API option will be shown
+*   We will select Youtube data api3 from the options
+*   Once API is created we will enable it from the given options
+*   After enabling the same we will be able to use this API on this project
+*   Now let's go to create crdentials option
+*   After clicking on creating credentials we will get the API key option and will select the same
+*   The API key will then be generated 
+
+
+Our API Key for the project - AIzaSyCEuFv94NJOhG0UbRAg285pEXZwza5BQF8
+
+
