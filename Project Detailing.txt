@@ -15,4 +15,12 @@ Let's Generate API Key first -
 
 Our API Key for the project - AIzaSyCEuFv94NJOhG0UbRAg285pEXZwza5BQF8
 
+Data API Documentation - 
+
+* In your browser go to YouTube Data API option
+* Then move to the referneces option
+* The resources given in here are used access different types of data from youtube
+
+
+
 
