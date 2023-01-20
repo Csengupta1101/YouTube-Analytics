@@ -19,7 +19,14 @@ Data API Documentation -
 
 * In your browser go to YouTube Data API option
 * Then move to the referneces option
-* The resources given in here are used access different types of data from youtube
+* The resources given in here are used to access different types of data from youtube
+
+Libraries required -
+
+*   google-api-python-client
+*   google-auth-oauthlib
+*   google-auth-httplib2
+
 
 
 
