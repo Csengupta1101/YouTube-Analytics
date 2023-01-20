@@ -13,7 +13,7 @@ Let's Generate API Key first -
 *   The API key will then be generated 
 
 
-Our API Key for the project - AIzaSyCEuFv94NJOhG0UbRAg285pEXZwza5BQF8
+
 
 Data API Documentation - 
 
